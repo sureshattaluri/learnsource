@@ -1,2 +1,2 @@
-# proximity-assignment
+# LeanSource
 proximity assignment
